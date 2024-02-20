@@ -1,4 +1,4 @@
-**Fighter Image Classifier Project**
+#**Fighter Image Classifier Project**
 
 **Overview**
 This project aims to develop an image classification model that can accurately identify and classify images of fighters. Utilizing a convolutional neural network (CNN), the model learns to distinguish between different fighters based on their visual features from a curated dataset.
