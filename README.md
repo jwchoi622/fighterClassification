@@ -18,7 +18,7 @@
 
 **최적화:** 모델은 최상의 성능을 달성하기 위해 세밀하게 조정된 이진 교차 엔트로피 손실 함수와 함께 Adam 최적화기를 사용합니다.
 
-**메트릭:** 모델 성능 평가에는 정확도가 주요 메트릭으로 사용됩니다. 이외에도 정밀도와 재현율과 같은 다른 메트릭들이 통찰력을 제공하는 데 사용됩니다.
+
 
 
 
@@ -43,5 +43,5 @@ To address this challenge, we developed a CNN-based model tailored to capture th
 ## **Implementation Details**
 **Data Augmentation:** To enhance the robustness of the model, data augmentation techniques such as rotation, scaling, and horizontal flipping are employed.
 
-**Optimization:** The model uses the Adam optimizer with a binary cross-entropy loss function, fine-tuned to achieve the best performance.
-Metrics: Accuracy is the primary metric for evaluating model performance, alongside other metrics to provide insights into areas such as precision and recall.
+**Optimization:** The model uses the Adam optimizer with a binary cross-entropy loss function, fine-tuned to achieve the best performance.  
+
